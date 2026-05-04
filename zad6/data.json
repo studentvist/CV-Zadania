@@ -1,0 +1,19 @@
+{
+  "skills": [
+    "HTML5 i CSS3",
+    "Podstawy JavaScript (DOM manipulation, Fetch API)",
+    "System kontroli wersji Git oraz platforma GitHub",
+    "Responsywne projektowanie stron (RWD)",
+    "Język angielski na poziomie B2"
+  ],
+  "projects": [
+    {
+      "name": "Osobiste Portfolio",
+      "description": "Strona internetowa stworzona w HTML, CSS i JS prezentująca moje osiągnięcia."
+    },
+    {
+      "name": "Interaktywny Formularz",
+      "description": "Formularz kontaktowy z dynamiczną walidacją po stronie przeglądarki."
+    }
+  ]
+}
